@@ -1,2 +1,4 @@
-Flask==2.3.3
-rsa==4.9
+Flask==3.1.2
+MarkupSafe==3.0.3
+Requests==2.32.5
+rsa==4.9.1
